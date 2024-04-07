@@ -1,0 +1,7 @@
+import pandas as pd
+
+df = pd.DataFrame()
+print(df.info())
+
+
+print("Hello")
