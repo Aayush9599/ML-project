@@ -16,3 +16,44 @@
 +defaults/osx-arm64::xz-5.4.6-h80987f9_0
 +defaults/osx-arm64::zlib-1.2.13-h5a0b063_0
 # update specs: ['python=3.8']
+==> 2024-04-07 22:52:57 <==
+# cmd: /opt/anaconda3/bin/conda install ipykernel
+# conda version: 24.1.2
++defaults/noarch::asttokens-2.0.5-pyhd3eb1b0_0
++defaults/noarch::backcall-0.2.0-pyhd3eb1b0_0
++defaults/noarch::decorator-5.1.1-pyhd3eb1b0_0
++defaults/noarch::executing-0.8.3-pyhd3eb1b0_0
++defaults/noarch::importlib_metadata-7.0.1-hd3eb1b0_0
++defaults/noarch::parso-0.8.3-pyhd3eb1b0_0
++defaults/noarch::pexpect-4.8.0-pyhd3eb1b0_3
++defaults/noarch::pickleshare-0.7.5-pyhd3eb1b0_1003
++defaults/noarch::ptyprocess-0.7.0-pyhd3eb1b0_2
++defaults/noarch::pure_eval-0.2.2-pyhd3eb1b0_0
++defaults/noarch::python-dateutil-2.8.2-pyhd3eb1b0_0
++defaults/noarch::six-1.16.0-pyhd3eb1b0_1
++defaults/noarch::stack_data-0.2.0-pyhd3eb1b0_0
++defaults/noarch::wcwidth-0.2.5-pyhd3eb1b0_0
++defaults/osx-arm64::appnope-0.1.2-py38hca03da5_1001
++defaults/osx-arm64::comm-0.2.1-py38hca03da5_0
++defaults/osx-arm64::debugpy-1.6.7-py38h313beb8_0
++defaults/osx-arm64::importlib-metadata-7.0.1-py38hca03da5_0
++defaults/osx-arm64::ipykernel-6.28.0-py38hca03da5_0
++defaults/osx-arm64::ipython-8.12.2-py38hca03da5_0
++defaults/osx-arm64::jedi-0.18.1-py38hca03da5_1
++defaults/osx-arm64::jupyter_client-8.6.0-py38hca03da5_0
++defaults/osx-arm64::jupyter_core-5.5.0-py38hca03da5_0
++defaults/osx-arm64::libsodium-1.0.18-h1a28f6b_0
++defaults/osx-arm64::matplotlib-inline-0.1.6-py38hca03da5_0
++defaults/osx-arm64::nest-asyncio-1.6.0-py38hca03da5_0
++defaults/osx-arm64::packaging-23.2-py38hca03da5_0
++defaults/osx-arm64::platformdirs-3.10.0-py38hca03da5_0
++defaults/osx-arm64::prompt-toolkit-3.0.43-py38hca03da5_0
++defaults/osx-arm64::psutil-5.9.0-py38h1a28f6b_0
++defaults/osx-arm64::pygments-2.15.1-py38hca03da5_1
++defaults/osx-arm64::pyzmq-25.1.2-py38h313beb8_0
++defaults/osx-arm64::tornado-6.3.3-py38h80987f9_0
++defaults/osx-arm64::traitlets-5.7.1-py38hca03da5_0
++defaults/osx-arm64::typing_extensions-4.9.0-py38hca03da5_1
++defaults/osx-arm64::zeromq-4.3.5-h313beb8_0
++defaults/osx-arm64::zipp-3.17.0-py38hca03da5_0
+# update specs: ['ipykernel']
